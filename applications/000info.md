@@ -1,6 +1,8 @@
 # contains different .exes or setup stuff.
-**AutoHotkey: Very useful application for running automation scripts.**
+**7z:** compressor and extractor. this is a must have because windows sometimes is unable to extract .zip files for whatever reasons, but 7z is able to.
 
-**SteamSetup: Just incase you somehow don't have access to the steam website.**
+**AutoHotkey:** Very useful application for running automation scripts.
 
-**Thonny: All in one python editor and flashing tool for microcontrollers.**
+**SteamSetup:** Just incase you somehow don't have access to the steam website.
+
+**Thonny:** All in one python editor and flashing tool for microcontrollers.
