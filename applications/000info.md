@@ -3,6 +3,8 @@
 
 **AutoHotkey:** Very useful application for running automation scripts.
 
+**Chat.zip:** Two .exes to allow server hosting and chatting. More information and usage instructions can be found in .py.
+
 **RevoUninstaller:** Good for finding and deleting applications, as well as the leftover files from them.
 
 **SteamSetup:** Just incase you somehow don't have access to the steam website.
